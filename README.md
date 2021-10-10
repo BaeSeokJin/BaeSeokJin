@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeSeokJin&count_bg=%23C987A6&title_bg=%23C3C4B4&icon=smugmug.svg&icon_color=%238A4C4C&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
