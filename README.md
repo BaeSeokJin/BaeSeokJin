@@ -8,7 +8,7 @@
 
 ### 👋Hi there! I am a man who is growing as a backend developer.
 ##### 　　　I always think positively and have smile in my face and that is my strong point.
-##### 　　　My hobbies are listening to music, walking and traveling.✈I graduated from the Department of Japanese Studies and is fluent in Japanese!🤗
+##### 　　　My hobbies are listening to music🎧, walking and traveling.✈I graduated from the Department of Japanese Studies and is fluent in Japanese!🤗
 <br><br>
 ### 🛠Skills & Tools
 
