@@ -6,7 +6,7 @@
 <!-- Portfolio --><img src="http://img.shields.io/badge/-Portfolio-44A833?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
 </div>
 
-### 👋Hi there! I am a man who is growing as a backend developer.
+### 👋Hi there!! I am a man who is growing as a backend developer.
 ##### 　　　I always think positively and have smile in my face and that is my strong point.
 ##### 　　　My hobbies are listening to music🎧, and traveling.✈I graduated from the Department of Japanese Studies and is fluent in Japanese!🤗
 
