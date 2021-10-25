@@ -1,7 +1,7 @@
 
 <div align="left">
-<!-- Blog --><img src="http://img.shields.io/badge/-Blog-FFA200?style=flat-square&logo=Badoo&logoColor=ffffff"/>
 <!-- Portfolio --><img src="http://img.shields.io/badge/-Portfolio-44A833?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
+<!-- Blog --><img src="http://img.shields.io/badge/-Blog-FFA200?style=flat-square&logo=Badoo&logoColor=ffffff"/>
 <!-- Gmail --><img src="http://img.shields.io/badge/-happyshipb@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/>
 </div>
 
@@ -21,6 +21,8 @@
 <!-- MySQL --><img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff"/>
 <!-- Git --><img src="http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff"/>
 </div>
+
+
 
 <div align="center">
 </div>
