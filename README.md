@@ -7,4 +7,4 @@
 # Hello, I'm SeokJin👋
    * I'm a backend developer.
    * I always think positively and have smile in my face and that is my strong point.
-   * I graduated from the Department of Japanese Studies and is fluent in Japanese
+   * I graduated from the Department of Japanese Studies and is fluent in Japanese.
