@@ -12,7 +12,7 @@ FF6550
   </a>
   <br>
   <!-- mail -->
-  <img src="http://img.shields.io/badge/-happyshipb@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=ffffff"/>
+  <img src="http://img.shields.io/badge/-happyshipb@gmail.com-FF6550?style=flat-square&logo=Gmail&logoColor=ffffff"/>
 </div>
 
 ## Hello, I'm SeokJin👋
