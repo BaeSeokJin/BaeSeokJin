@@ -1,7 +1,7 @@
 
 <div align="left">
 <!-- Portfolio --><img src="http://img.shields.io/badge/-Portfolio-FF6550?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
-<!-- Blog --><img src="http://img.shields.io/badge/-Blog-00c73c?style=flat-square&logo=Leaflet&logoColor=ffffff"/>
+<!-- Blog --><a href="https://blog.naver.com/htdocs16bsj"><img src="http://img.shields.io/badge/-Blog-00c73c?style=flat-square&logo=Leaflet&logoColor=ffffff"/></a>
 </div>
 
 ## Hello, I'm SeokJin👋
