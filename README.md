@@ -19,7 +19,7 @@
    * I graduated from the Department of Japanese Studies and is fluent in Japanese. 
    * I'm interested in completing this [checklist](https://github.com/BaeSeokJin/web-development-checklist)✨
 
-<!--
+<!-- 
 <div align="left">
   <a href="https://mire-aster-d61.notion.site/Portfolio-BaeSeokJin-1a4d97e749bd406091e5b8e4246fec96" target="_blank">
     <img src="http://img.shields.io/badge/-Portfolio-FF6550?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
