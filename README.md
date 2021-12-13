@@ -13,7 +13,7 @@
   <img src="http://img.shields.io/badge/-happyshipb@gmail.com-FF6550?style=flat-square&logo=Gmail&logoColor=ffffff"/>
 </div>
 
-## Hello, I'm SeokJin👋
+## Hello, I'm SeokJin👋 
    * I'm a [backend developer](https://mire-aster-d61.notion.site/Portfolio-BaeSeokJin-1a4d97e749bd406091e5b8e4246fec96)
    * I always think positively and have smile in my face and that is my strong point.
    * I graduated from the Department of Japanese Studies and is fluent in Japanese. 
