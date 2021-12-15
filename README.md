@@ -23,7 +23,7 @@
 <div align="left">
   <a href="https://mire-aster-d61.notion.site/Portfolio-BaeSeokJin-1a4d97e749bd406091e5b8e4246fec96" target="_blank">
     <img src="http://img.shields.io/badge/-Portfolio-FF6550?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
-  </a>
+  </a> 
   <a href="https://blog.naver.com/htdocs16bsj" target="_blank">
     <img src="http://img.shields.io/badge/-Blog-00c73c?style=flat-square&logo=Leaflet&logoColor=ffffff"/>
   </a> 
