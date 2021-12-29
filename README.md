@@ -8,7 +8,7 @@
   <a href="https://blog.naver.com/htdocs16bsj" target="_blank">
     <img src="http://img.shields.io/badge/-Blog-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/>
   </a>
-  <br>
+  <br> 
   <!-- mail -->
   <img src="http://img.shields.io/badge/-happyshipb@gmail.com-FF6550?style=flat-square&logo=Gmail&logoColor=ffffff"/>
 </div>
