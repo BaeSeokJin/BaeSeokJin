@@ -18,7 +18,15 @@
    * I always think positively and have smile in my face and that is my strong point.
    * I graduated from the Department of Japanese Studies and is fluent in Japanese. 
    * I'm interested in completing this [checklist](https://github.com/BaeSeokJin/web-development-checklist)✨
- 
+   
+<hr>
+
+## Bucket list for 2022😎 
+  * 정보처리기사 필기
+  * 정보처리기사 실기
+  * SQLD
+  * 개발 블로그 포스팅 200개
+   
 <!-- 
 <div align="left">
   <a href="https://mire-aster-d61.notion.site/Portfolio-BaeSeokJin-1a4d97e749bd406091e5b8e4246fec96" target="_blank">
