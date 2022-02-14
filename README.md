@@ -2,7 +2,7 @@
 
 <div align="right"> 
   <!-- Portfolio -->    
-  <a href="https://mire-aster-d61.notion.site/Portfolio-BaeSeokJin-1a4d97e749bd406091e5b8e4246fec96" target="_blank">
+  <a href="https://baeseokjin.github.io/bsj-portfolio/" target="_blank">
     <img src="http://img.shields.io/badge/-Portfolio-512BD4?style=flat-square&logo=AffinityPublisher&logoColor=ffffff"/>
   </a>
   <!-- Blog -->
