@@ -18,7 +18,7 @@
 
 ### Hello, I'm SeokJin👋 
    * I'm a [backend developer](https://baeseokjin.github.io/bsj-portfolio/)
-   * I always think positively and have smile in my face and that is my strong point.
+   * I always think <b>positively and have smile in my face</b> and that is my strong point.
    * I graduated from the Department of Japanese Studies and is fluent in Japanese.
 
 <!-- 
