@@ -20,6 +20,7 @@
    * I'm a [backend developer](https://baeseokjin.github.io/bsj-portfolio/)
    * I always think <b>positively and have smile in my face</b> and that is my strong point.
    * I graduated from the Department of Japanese Studies and is fluent in Japanese.
+   * Click the link to go to [My Goals](https://blog.naver.com/htdocs16bsj/222668141319) for the Year
 
 <!-- 
 <div align="left">
